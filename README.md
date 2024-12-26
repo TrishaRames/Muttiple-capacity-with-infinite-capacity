@@ -1,4 +1,11 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+EX.NO :
+
+DATE :
+
+NAME :R.TRISHA
+
+REGISTER NO :
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -18,12 +25,17 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![Screenshot 2024-12-26 180338](https://github.com/user-attachments/assets/13e384c0-3ab4-4035-8596-fbe9552a6069)
 
 
 ## Program
 
+![Screenshot 2024-12-26 180404](https://github.com/user-attachments/assets/766fb013-afb7-4361-bb11-c98da2cb514a)
 
 ## Output :
 
+![Screenshot 2024-12-26 180414](https://github.com/user-attachments/assets/3fa8094f-acef-4880-bca3-4dd579259c03)
+
 ## Result : 
 
+![Screenshot 2024-12-26 180433](https://github.com/user-attachments/assets/29a65557-949b-432c-8104-234e52b00cdd)
